@@ -1,0 +1,12 @@
+[package]
+name = "l-system-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Lindenmayer systems: string rewriting, turtle interpretation, stochastic and parametric L-systems in pure Rust"
+license = "MIT OR Apache-2.0"
+keywords = ["l-system", "lindenmayer", "fractal", "turtle-graphics", "generative"]
+categories = ["science", "mathematics", "simulation"]
+repository = "https://github.com/SuperInstance/l-system-rs"
+documentation = "https://docs.rs/l-system-rs"
+readme = "README.md"
+authors = ["SuperInstance"]
